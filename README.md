@@ -1,5 +1,5 @@
 ## Welcome to Alyssa's Website
 
-~*~*~*content*~*~*~*
+content goes here
 
 
